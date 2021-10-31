@@ -1,0 +1,23 @@
+/*Header Area*/
+div {
+  backround-color: rgb(144, 144, 228);
+}
+
+#titleMain {
+  color: red;
+}
+.titleText {
+  font-size: 30px;
+  color: yellow;
+}
+
+.subTitle {
+  backround-color: tomato;
+  font-size: 70 px;
+}
+
+/*Main Area*/
+
+.section-first {
+  backround-color: red;
+}
